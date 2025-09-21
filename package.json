@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ayusharma/birthday.git"
+    "url": "git+https://github.com/erica-monacillo/HBD.git"
   },
   "keywords": [
     "Birthday"
@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/ayusharma/birthday/issues"
   },
-  "homepage": "https://github.com/ayusharma/birthday#readme",
+  "homepage": "https://github.com/erica-monacillo/HBD#readme",
   "dependencies": {
     "http-server": "^14.1.1"
   }
